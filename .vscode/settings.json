@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "js/ts.implicitProjectConfig.experimentalDecorators": true,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/out": true
+  }
+}
